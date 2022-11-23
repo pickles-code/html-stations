@@ -8,7 +8,7 @@ const returnThisData = function () {
 // ↑関数の中の処理は変更しないでください
 
 const object = {
-  data: "object data",
+  data: data,
   func: returnThisData,
 };
 
